@@ -1,1 +1,0 @@
-# alfa-yoyogi-43
