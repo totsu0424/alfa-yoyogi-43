@@ -26,7 +26,6 @@ body {
   list-style: none;
   color: #000;
   margin: 0;
-  background-color: #666666;
 }
 
 img {
@@ -240,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #666666;
+  background-color: #ee0000;
 }
 
 .bg-color--subcolor {
